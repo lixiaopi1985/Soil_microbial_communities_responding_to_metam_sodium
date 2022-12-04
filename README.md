@@ -1,2 +1,4 @@
-# Soil_microbial_communities_responding_to_metam_sodium
-R codes for the manuscript "Soil microbial community diversity, structure, network association, and response to metam sodium application varies depending on previous fumigation exposure"
+# Legacy effects of fumigation on soil bacterial and fungal communities and their response to metam sodium application
+R codes for the manuscript "Legacy effects of fumigation on soil bacterial and fungal communities and their response to metam sodium application"
+
+Manuscript is published at https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-022-00454-w
